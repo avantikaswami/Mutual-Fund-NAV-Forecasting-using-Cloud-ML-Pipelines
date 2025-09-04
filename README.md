@@ -57,9 +57,3 @@ This project demonstrates an **end-to-end machine learning pipeline** for foreca
 * Automated **daily NAV forecasting pipeline**.
 * Achieved accurate time-series predictions with **XGBoost & LSTM outperforming ARIMA**.
 * Power BI dashboards enabled **interactive investment insights**.
-
-## 🔹 Future Enhancements
-
-* Add **real-time streaming data ingestion** with Azure Event Hub.
-* Deploy trained models as **REST APIs** with Azure ML.
-* Expand to **multi-asset forecasting (ETFs, stocks, crypto)**.
