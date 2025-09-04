@@ -1,0 +1,6 @@
+1. To run airflow : 
+    Please Install docker desktop
+    
+2. run command "docker compose up"
+
+3. 
